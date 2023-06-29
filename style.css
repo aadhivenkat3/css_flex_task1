@@ -1,0 +1,27 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+#about{
+    margin:10px;
+}
+.container{
+	margin:20px;
+	padding:20px;
+}
+.row{
+	display:flex;
+}
+.col1,.col2{
+	width:50%;
+}
+.bgimage{
+	margin:10px;
+	width:650px;
+	height:450px;
+}
+.col1{
+	font-size:105%;
+}
+	
